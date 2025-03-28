@@ -1,0 +1,7 @@
+# Request
+OrderDetails order_details
+
+---
+# Response
+bool is_valid
+string message
